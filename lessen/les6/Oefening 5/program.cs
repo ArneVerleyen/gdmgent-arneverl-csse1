@@ -274,11 +274,11 @@ namespace oefening5
                 SchrijfLog(GenerateAccount(args[0], args[1], args[2]));
             }
             catch (System.IndexOutOfRangeException){
-                SchrijfLog("Er werden te weinig argumenten meegegeven voor de account generator (moet 3 zijn)");
+                SchrijfLog("Er werden te weinig argumenten meegegeven voor de account generator minstens 3 nodig");
             }
             catch (System.Exception)
             {
-                SchrijfLog("er is een probleem");
+                SchrijfLog("foutmelding");
             }
 
             SchrijfLog(ValideerIBAN("BE07 7390 1412 0066"));
