@@ -34,9 +34,16 @@ namespace oefening5
                 return --getal;
             }
             static int WillekeurigGetal(int min = 0, int max = 80){
-                Random rnd = new Random();
-                int res = rnd.Next(min, max);
-                return res;
+                try 
+                { 
+                    Random rnd = new Random();
+                    int res = rnd.Next(min, max);
+                    return res;
+                }
+                catch (System.Exception)
+                {
+                    return 0;
+                }
             }
             static int WillekeurigGetal(){
                 Random rnd = new Random();
