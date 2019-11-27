@@ -1,0 +1,11 @@
+/Users/ArneVerleyen 1/Repos/gdmgent-arneverl-csse1/lessen/les7/oefening6/bin/Debug/netcoreapp3.0/Oefening6
+/Users/ArneVerleyen 1/Repos/gdmgent-arneverl-csse1/lessen/les7/oefening6/bin/Debug/netcoreapp3.0/Oefening6.deps.json
+/Users/ArneVerleyen 1/Repos/gdmgent-arneverl-csse1/lessen/les7/oefening6/bin/Debug/netcoreapp3.0/Oefening6.runtimeconfig.json
+/Users/ArneVerleyen 1/Repos/gdmgent-arneverl-csse1/lessen/les7/oefening6/bin/Debug/netcoreapp3.0/Oefening6.runtimeconfig.dev.json
+/Users/ArneVerleyen 1/Repos/gdmgent-arneverl-csse1/lessen/les7/oefening6/bin/Debug/netcoreapp3.0/Oefening6.dll
+/Users/ArneVerleyen 1/Repos/gdmgent-arneverl-csse1/lessen/les7/oefening6/bin/Debug/netcoreapp3.0/Oefening6.pdb
+/Users/ArneVerleyen 1/Repos/gdmgent-arneverl-csse1/lessen/les7/oefening6/obj/Debug/netcoreapp3.0/Oefening6.csprojAssemblyReference.cache
+/Users/ArneVerleyen 1/Repos/gdmgent-arneverl-csse1/lessen/les7/oefening6/obj/Debug/netcoreapp3.0/Oefening6.AssemblyInfoInputs.cache
+/Users/ArneVerleyen 1/Repos/gdmgent-arneverl-csse1/lessen/les7/oefening6/obj/Debug/netcoreapp3.0/Oefening6.AssemblyInfo.cs
+/Users/ArneVerleyen 1/Repos/gdmgent-arneverl-csse1/lessen/les7/oefening6/obj/Debug/netcoreapp3.0/Oefening6.dll
+/Users/ArneVerleyen 1/Repos/gdmgent-arneverl-csse1/lessen/les7/oefening6/obj/Debug/netcoreapp3.0/Oefening6.pdb
